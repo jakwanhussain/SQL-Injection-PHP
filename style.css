@@ -1,0 +1,36 @@
+body{
+	background-color: #f3f3f3;
+	font-family: arial;
+	margin: auto;
+    width: 60%;
+    padding: 10px;
+}
+
+.shopping-container{
+	width: 600px;
+	background-color: #fff;
+	padding: 30px;
+}
+
+/*.shopping-box{
+	padding-bottom: 30px;
+	width: 100%;
+}*/
+
+input{
+	padding: 0px 20px;
+	width: 200px;
+	heigth: 40px;
+	font-size: 22px;
+}
+
+button{
+	width: 100px;
+	heigth: 40px;
+	font-size: 22px;
+	color: #900; 
+	font-weight: bold; 
+	cursor: pointer;
+}
+
+
